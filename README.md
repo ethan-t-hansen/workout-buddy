@@ -1,4 +1,4 @@
-# Notes for MERN app
+# Libraries + Frameworks used for Workout Manager
 
 - Database: MongoDB Atlas
 - Backend dependencies: mongoose, dontenv, express
